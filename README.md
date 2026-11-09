@@ -20,9 +20,7 @@ Fourth-year Software Engineering student seeking internship opportunities. I bui
   An Android app for saving and organizing video references with captions and folders. It uses the system file picker, previews selected videos, and stores video details locally.  
   **Technologies:** Kotlin, Jetpack Compose, Room, Android
 
-- [Library Management System](https://github.com/git-nath/library-management-system)  
-  A basic web form for inserting, updating, and deleting book records, including title, author, ISBN, genre, and availability fields.  
-  **Technologies:** PHP, MySQL, HTML
+
 
 ## Contact
 
