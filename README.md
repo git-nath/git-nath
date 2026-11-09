@@ -1,44 +1,26 @@
 # Hi, I'm Nath
 
-I'm a 4th-year Software Engineering student interested in building practical software solutions and improving my development skills through real-world projects.
-
-## About Me
-
-- Software Engineering student
-- Interested in software development and problem-solving
-- Building projects to strengthen my technical skills
-- Currently seeking internship opportunities
-
-## Technologies
-
-**Languages:** Python, TypeScript, PHP, Kotlin
-
-**Web Development:** HTML
+Fourth-year Software Engineering student seeking internship opportunities. I build software projects across desktop, web, and Android, and I’m interested in applying my skills to practical engineering work.
 
 ## Projects
 
-### [YouTube Clip Downloader](https://github.com/git-nath/youtube-clip-downloader)
+- [YouTube Clip Downloader](https://github.com/git-nath/youtube-clip-downloader)  
+  A Windows desktop app for selecting and downloading sections of online videos. It supports format selection, timestamp-based clipping, splitting a range into multiple clips, and download history.  
+  **Technologies:** Python, Tkinter, yt-dlp, FFmpeg
 
-A Python project for downloading YouTube clips.
+- [StatusMonkey Lead Finder](https://github.com/git-nath/statusmonkey-lead-finder)  
+  A web app that scans Reddit posts for potential leads related to website uptime monitoring. It scores posts using keyword matches and tracks lead information in a PostgreSQL database.  
+  **Technologies:** Python, Flask, PostgreSQL, HTML, CSS, JavaScript
 
-### [StatusMonkey Lead Finder](https://github.com/git-nath/statusmonkey-lead-finder)
+- [QuickPad Android App](https://github.com/git-nath/QuickPad-App)  
+  An Android app for saving and organizing video references with captions and folders. It uses the system file picker, previews selected videos, and stores video details locally.  
+  **Technologies:** Kotlin, Jetpack Compose, Room, Android
 
-A web-based application.
-
-### [QuickPad App](https://github.com/git-nath/QuickPad-App)
-
-An Android application developed with Kotlin.
-
-### [Library Management System](https://github.com/git-nath/library-management-system)
-
-A software project focused on library management.
-
-## Current Goal
-
-Seeking an internship opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a Software Engineer.
+- [Library Management System](https://github.com/git-nath/library-management-system)  
+  A basic web form for inserting, updating, and deleting book records, including title, author, ISBN, genre, and availability fields.  
+  **Technologies:** PHP, MySQL, HTML
 
 ## Contact
 
-- **Email:** [ibx3tensor@gmail.com](mailto\:ibx3tensor@gmail.com)
-- **Telegram:** [@chat2414](https://t.me/chat2414)
-- **GitHub:** [github.com/git-nath](https://github.com/git-nath)
+- Email: [ibx3tensor@gmail.com](mailto:ibx3tensor@gmail.com)
+- Telegram: [@chat2414](https://t.me/chat2414)
