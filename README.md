@@ -12,6 +12,10 @@ Fourth-year Software Engineering student seeking internship opportunities. I bui
   A web app that scans Reddit posts for potential leads related to website uptime monitoring. It scores posts using keyword matches and tracks lead information in a PostgreSQL database.  
   **Technologies:** Python, Flask, PostgreSQL, HTML, CSS, JavaScript
 
+- [HomeBridge Telegram Mini App](https://github.com/git-nath/Mini-App)  
+  A Telegram Mini App that connects renters with brokers, with rental listings, renter and broker modes, and viewing requests.  
+  **Technologies:** React, TypeScript, Vite, Telegram Mini Apps
+
 - [QuickPad Android App](https://github.com/git-nath/QuickPad-App)  
   An Android app for saving and organizing video references with captions and folders. It uses the system file picker, previews selected videos, and stores video details locally.  
   **Technologies:** Kotlin, Jetpack Compose, Room, Android
