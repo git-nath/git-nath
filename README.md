@@ -20,7 +20,10 @@ Fourth-year Software Engineering student seeking internship opportunities. I bui
   An Android app for saving and organizing video references with captions and folders. It uses the system file picker, previews selected videos, and stores video details locally.  
   **Technologies:** Kotlin, Jetpack Compose, Room, Android
 
+## Languages
 
+- **Programming:** C#, JavaScript, Kotlin, PHP, Python, SQL, TypeScript
+- **Web:** HTML, CSS
 
 ## Contact
 
